@@ -42,12 +42,12 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
     <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
- 
+ <span></span>
     <a href="https://mzee.vercel.app">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Porsolio"/>
     </a>
-  
+ <span></span>
     <a href="https://github.com/mzeeshan1512">
-      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Github"/>
+      <img src="https://camo.githubusercontent.com/ccceab02b3dd9c1afd6be271ade73df1d9b76b87d010dd3282570836d6870ba3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Github"/>
     </a>
   </div>
