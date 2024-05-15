@@ -9,7 +9,7 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
 - 🔭 I’m currently working on JavaScrip, ReactJs, NectJs, D3Js, Bootstrap & Tailwind CSS.
 - 🌱 I’m currently learning Python Backend Development.
 - 💬 Ask me about C, C++, Javascript, React/NextJs, Vue/NuxtJs, Angular, Node/NestJs or Assembly language.
-- 📫 How to reach me: mzee.vercel.app
+- 📫 How to reach me: <a href="https://www.mzee.vercel.app/"> mzee.vercel.app <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
 - ⚡ Fun fact: I love to solve programming problems.
 
 #### :hammer_and_wrench: Languages and Tools :
@@ -45,5 +45,9 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
   <span> </span>
     <a href="https://mzee.vercel.app">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Porsolio"/>
+    </a>
+   <span> </span>
+    <a href="https://mzee.vercel.app](https://github.com/mzeeshan1512">
+      <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Github"/>
     </a>
   </div>
