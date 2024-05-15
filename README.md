@@ -42,11 +42,11 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
     <a href="https://www.linkedin.com/in/mzeeshan-shahid/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  <span> </span>
+ 
     <a href="https://mzee.vercel.app">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Porsolio"/>
     </a>
-   <span> </span>
+  
     <a href="https://github.com/mzeeshan1512">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Github"/>
     </a>
