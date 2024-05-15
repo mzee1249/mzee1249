@@ -47,7 +47,7 @@ Adaptable and resourceful, consistently delivering efficient and scalable soluti
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Porsolio"/>
     </a>
    <span> </span>
-    <a href="https://mzee.vercel.app](https://github.com/mzeeshan1512">
+    <a href="https://github.com/mzeeshan1512">
       <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=blogger&logoColor=white" alt="Github"/>
     </a>
   </div>
